@@ -1,7 +1,7 @@
 Cloudflare IPs Only
 ===================
 
-Configuration your iptables to allow IP access only from Cloudflare.
+Configure your iptables to allow IPs from Cloudflare only.
 
 ### Usage
 
