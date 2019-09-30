@@ -1,7 +1,7 @@
 # !/bin/bash
 #
-# Configure your iptables to allow IP access only from Cloudflare.
-# For users deployed with docker on the server
+# Configure your iptables to allow IPs from Cloudflare only.
+# For users deployed with docker on the server.
 #
 # author: kingcc <eof@null.net>
 

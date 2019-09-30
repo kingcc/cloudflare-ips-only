@@ -1,7 +1,7 @@
 # !/bin/bash
 #
-# Configure your iptables to allow IP access only from Cloudflare.
-# For users whose HTTP server is directly exposed to the host 80/443
+# Configure your iptables to allow IPs from Cloudflare only.
+# For users whose HTTP server is directly exposed to the host 80/443.
 #
 # author: kingcc <eof@null.net>
 
