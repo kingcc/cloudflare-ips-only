@@ -1,7 +1,7 @@
 Cloudflare IPs Only
 ===================
 
-Configure your iptables to allow IPs from Cloudflare only.
+An iptables script that allows your HTTP(80)/HTTPS(443) port to only receive traffic from cloudflare.
 
 ### Usage
 
